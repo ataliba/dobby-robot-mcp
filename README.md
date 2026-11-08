@@ -1,4 +1,7 @@
-# dobi-mcp
+# Dobby-robot-mcp 
+
+<img width="813" height="1024" alt="image" src="https://github.com/user-attachments/assets/651df880-2083-40de-8ae8-8904b2930e28" />
+
 
 **Português** | [English](README.en.md)
 
